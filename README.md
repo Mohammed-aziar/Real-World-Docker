@@ -16,7 +16,7 @@ To install this project, you must have Docker and Docker Compose installed.
 1. Clone the project to your computer:
 
 ```
-git clone https://gitlab.com/m.aziar/real-world-docker.git
+git clone https://github.com/Mohammed-aziar/Real-World-Docker.git
 ```
 
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ The application is accessible at http://localhost:8080.
 For more information, please see the project documentation:
 
 ```
-https://gitlab.com/m.aziar/real-world-docker/-/blob/main/README.md?ref_type=heads
+https://github.com/Mohammed-aziar/Real-World-Docker/blob/master/README.md
 ```
 
 ## Changelog
